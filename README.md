@@ -19,4 +19,3 @@ Proyek ini mengukur dan membandingkan performa dua pendekatan algoritma berdasar
 - Siti Dibaj Trikusuma (12409011050117)
 - Shofwatunnisa (12409011050121)
  
-DEPOK
