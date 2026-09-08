@@ -18,4 +18,4 @@ Proyek ini mengukur dan membandingkan performa dua pendekatan algoritma berdasar
 - Rusmin Nuryadin (12409011050120)
 - Siti Dibaj Trikusuma (12409011050117)
 - Shofwatunnisa (12409011050121)
-
+ DEPOK
